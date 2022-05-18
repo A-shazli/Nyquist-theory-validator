@@ -8,5 +8,6 @@ A GUI Where you can:
   <li>Save the signal as a .csv file</li>
   </ul>
   <hr class="rounded">
-  <img src=https://user-images.githubusercontent.com/61319952/169114513-c3265339-c103-41f8-8c63-13633b03cd99.gif class="img-responsive" alt=""> </div>
+  <img src=https://user-images.githubusercontent.com/61319952/169119046-ce1b897b-9106-4608-80e0-eef8cb83fc14.gif
+ class="img-responsive" alt=""> </div>
 
