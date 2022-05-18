@@ -7,3 +7,4 @@ A GUI Where you can:
   <li>Reconstruct the signal to verify Nyquist theory</li>
   <li>Save the signal as a .csv file</li>
   </ul>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61319952/169114513-c3265339-c103-41f8-8c63-13633b03cd99.gif)
