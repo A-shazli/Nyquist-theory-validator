@@ -1,4 +1,4 @@
-# Signal Composer nd Reconstructor
+# Signal Composer and Reconstructor
 A GUI Where you can: 
 <ul>
 <li>Compose a sinusoidal signal by adding up many signals</li>
