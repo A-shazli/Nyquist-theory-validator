@@ -5,5 +5,5 @@ A GUI Where you can:
   <li>Delete certain signals or the whole signal </li>
   <li>Sample the signal</li>
   <li>Reconstruct the signal to verify Nyquist theory</li>
-  <li>Can also save the signal as a .csv file</li>
+  <li>Save the signal as a .csv file</li>
   </ul>
